@@ -1,6 +1,6 @@
 ## Olá, sou o Luís, mas pode me chamar de Saru 👋
 
-Sou apaixonado por criar soluções criativas com impacto real, unindo tecnologia, acessibilidade e propósito — e tenho como missão ajudar outras pessoas a darem seus primeiros passos no mundo da programação.
+Sou apaixonado por criar soluções criativas com impacto real, unindo tecnologia, acessibilidade e propósito, e tenho como missão ajudar outras pessoas com o uso de tecnologias abertas ao público, sem monopolizar!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
