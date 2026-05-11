@@ -20,7 +20,6 @@ Atualmente desenvolvendo soluções voltadas para:
   
   <img align="center" alt="n8n" height="48" width="48" src="https://cdn.simpleicons.org/n8n">
   
-  <img align="center" alt="ChatGPT" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
 </p>
 
 ---
