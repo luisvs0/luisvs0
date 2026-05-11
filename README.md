@@ -17,11 +17,10 @@ Atualmente desenvolvendo soluções voltadas para:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,firebase,supabase,docker" />
-</p>
-
-<p align="left">
-  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.simpleicons.org/n8n">
-  <img align="center" alt="OpenAI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+  
+  <img align="center" alt="n8n" height="48" width="48" src="https://cdn.simpleicons.org/n8n">
+  
+  <img align="center" alt="ChatGPT" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
 </p>
 
 ---
