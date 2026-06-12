@@ -1,6 +1,6 @@
 # Luís Vargas
 
-Founder da ProtoHello.
+Founder da 10x.
 
 Construindo ferramentas focadas em IA, automação e vibe coding para transformar ideias em produtos digitais de forma rápida e acessível.
 
